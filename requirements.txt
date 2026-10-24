@@ -12,4 +12,5 @@
    pytest-cov
    httpx
    ruff
+   psycopg[binary]
    
