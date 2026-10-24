@@ -1,0 +1,15 @@
+   fastapi
+   uvicorn[standard]
+   sqlalchemy
+   alembic
+   psycopg2-binary
+   pydantic-settings
+   email-validator
+   python-multipart
+   pyjwt
+   bcrypt
+   pytest
+   pytest-cov
+   httpx
+   ruff
+   
